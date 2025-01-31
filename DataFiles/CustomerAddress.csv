@@ -1,0 +1,873 @@
+CustomerAddressID,CustomerID,CustomerAddress,City,State,Country,PostalCode
+409611,60760224,1 Independence Circle,Anchorage,Alaska,United States,99522
+524299,67457594,209 Lerdahl Alley,Saint Cloud,Minnesota,United States,56398
+874512,58411135,1803 Evergreen Trail,Chicago,Illinois,United States,60674
+651282,5915307,9682 Warbler Terrace,Orlando,Florida,United States,32885
+395296,51655189,5751 Tony Avenue,Detroit,Michigan,United States,48232
+616483,658110001,26066 Valley Edge Parkway,Atlanta,Georgia,United States,31136
+778278,31722328,60797 Rowland Pass,Boston,Massachusetts,United States,2208
+426022,54162018,0 Sachs Court,Charleston,West Virginia,United States,25336
+127016,449110060,0 Maywood Center,Phoenix,Arizona,United States,85035
+888872,548685732,04 Knutson Drive,San Jose,California,United States,95113
+858150,9551015,8104 Colorado Avenue,Newark,New Jersey,United States,7112
+235568,54838101,7265 Buell Trail,Syracuse,New York,United States,13217
+258110,49825119,26 Mitchell Center,Charleston,West Virginia,United States,25331
+538686,54799504,25 Dapin Lane,Topeka,Kansas,United States,66642
+804928,437420059,9 Nelson Parkway,Washington,District of Columbia,United States,20005
+886849,687889728,98287 Tennessee Place,Chattanooga,Tennessee,United States,37416
+342082,2282672,68 Prairieview Way,Dayton,Ohio,United States,45470
+835651,21695215,064 Everett Circle,Appleton,Wisconsin,United States,54915
+307268,37000352,8972 Rieder Terrace,Murfreesboro,Tennessee,United States,37131
+655425,492880606,90 Mendota Park,Annapolis,Maryland,United States,21405
+921671,496931801,618 Bunting Court,Bloomington,Indiana,United States,47405
+952392,23155141,12088 Anniversary Trail,Santa Monica,California,United States,90405
+307271,655170027,0683 Everett Trail,Evansville,Indiana,United States,47725
+745550,7039258,8 Northland Lane,Reno,Nevada,United States,89519
+362575,50988176,38475 Longview Terrace,Muncie,Indiana,United States,47306
+802895,551548252,02096 Eliot Pass,New York City,New York,United States,10029
+387158,51143213,237 7th Parkway,Baltimore,Maryland,United States,21281
+792666,42507612,3110 Loomis Parkway,Miami,Florida,United States,33158
+464987,76237162,20207 Lotheville Way,Washington,District of Columbia,United States,20442
+940124,692430610,09 Bartelt Drive,Vancouver,Washington,United States,98682
+751707,75936123,3711 Leroy Junction,Lincoln,Nebraska,United States,68531
+938082,51346179,508 Hazelcrest Lane,Austin,Texas,United States,78783
+669794,10849001,570 Hansons Court,Brooklyn,New York,United States,11215
+714852,52125632,778 Sunnyside Hill,El Paso,Texas,United States,79999
+544873,538080603,4138 Westend Junction,New Orleans,Louisiana,United States,70142
+157801,68387695,07 Forest Run Alley,New York City,New York,United States,10060
+325739,6031384,6 Dorton Circle,Roanoke,Virginia,United States,24020
+878700,55289697,5 Myrtle Circle,San Francisco,California,United States,94177
+116847,339924948,9 Pawling Point,Dulles,Virginia,United States,20189
+604271,49938102,0009 Butterfield Pass,Battle Creek,Michigan,United States,49018
+479345,24488032,0460 Northfield Park,Atlanta,Georgia,United States,31106
+514165,11697373,25 Artisan Terrace,Stockton,California,United States,95298
+102518,437420339,9 Vernon Crossing,Pasadena,California,United States,91125
+979066,62499395,5399 Sunnyside Way,Corpus Christi,Texas,United States,78405
+342141,551546649,5724 Forster Alley,Saginaw,Michigan,United States,48604
+862334,51523018,795 Portage Alley,Little Rock,Arkansas,United States,72204
+809086,52959997,4152 Grayhawk Avenue,Spartanburg,South Carolina,United States,29319
+526464,37205458,42 Hoard Hill,Nashville,Tennessee,United States,37235
+401537,2680899,0039 Fallview Street,Tulsa,Oklahoma,United States,74133
+827519,65321515,36 Oxford Lane,Shreveport,Louisiana,United States,71130
+102532,66854024,9090 Oakridge Alley,Saint Paul,Minnesota,United States,55188
+116869,30142163,06 Northland Parkway,El Paso,Texas,United States,79905
+843912,687889178,481 Calypso Street,Tempe,Arizona,United States,85284
+299147,5177630,96 Mcguire Hill,West Palm Beach,Florida,United States,33416
+344204,369871206,0329 Butterfield Court,Lancaster,California,United States,93584
+608400,936126,659 Mitchell Alley,Kalamazoo,Michigan,United States,49048
+434321,51060009,9 Darwin Trail,Fort Lauderdale,Florida,United States,33355
+131223,55319533,2 Pierstorff Park,Oklahoma City,Oklahoma,United States,73197
+645272,4091163,011 Northfield Alley,Boise,Idaho,United States,83716
+848025,61336001,76 Eagle Crest Point,Washington,District of Columbia,United States,20005
+282779,1350460,3 Corscot Circle,Fort Smith,Arkansas,United States,72905
+997537,53150411,6 Melby Street,Detroit,Michigan,United States,48211
+970913,605601072,81314 Eggendart Court,Champaign,Illinois,United States,61825
+184490,523803101,343 Corry Pass,Plano,Texas,United States,75074
+452779,511411000,32 Farragut Terrace,Garland,Texas,United States,75044
+641199,7816523,75 Aberg Center,Indianapolis,Indiana,United States,46247
+993459,43196514,1 Northland Trail,Fayetteville,North Carolina,United States,28305
+665779,63824750,75 Gulseth Pass,Nashville,Tennessee,United States,37205
+309432,64980183,43 Hanson Street,Kansas City,Missouri,United States,64136
+516281,35356844,0484 Delaware Crossing,Birmingham,Alabama,United States,35290
+970938,68180403,822 American Parkway,Birmingham,Alabama,United States,35231
+549052,24987562,54954 Westerfield Terrace,Glendale,Arizona,United States,85311
+577724,548684250,37867 Lindbergh Pass,Brockton,Massachusetts,United States,2305
+123069,534990390,96 Melby Lane,Arlington,Texas,United States,76096
+288963,13537110,166 Lillian Place,Albany,New York,United States,12255
+913607,41520199,41 Cody Road,Dallas,Texas,United States,75221
+680136,9444351,9170 Delladonna Place,Seattle,Washington,United States,98127
+334026,765191017,28 Granby Place,Atlanta,Georgia,United States,31132
+149707,45963538,272 Forster Parkway,Orlando,Florida,United States,32803
+291020,64117252,6925 Tomscot Road,Birmingham,Alabama,United States,35263
+618704,43269669,92 Bowman Pass,San Antonio,Texas,United States,78285
+729296,1850157,3 Del Sol Way,Brooklyn,New York,United States,11236
+522448,24208544,6 Melody Circle,Baton Rouge,Louisiana,United States,70820
+129235,29149001,364 Buhler Avenue,Phoenix,Arizona,United States,85099
+155857,2995980,2 Golf View Plaza,Daytona Beach,Florida,United States,32128
+262363,672039,09 Claremont Lane,Tampa,Florida,United States,33620
+604380,557144426,12 Raven Street,Phoenix,Arizona,United States,85025
+413919,37808008,9 Gateway Drive,Fort Smith,Arkansas,United States,72905
+604384,650643,627 Elmside Alley,Los Angeles,California,United States,90025
+395490,53746102,864 Fallview Court,Charlottesville,Virginia,United States,22908
+887011,55700020,93 Schiller Terrace,Wichita,Kansas,United States,67230
+248036,2062100,7861 Cardinal Trail,Saint Paul,Minnesota,United States,55127
+252136,68462179,0081 Hayes Plaza,Louisville,Kentucky,United States,40210
+207081,76439273,51509 Briar Crest Plaza,Tucson,Arizona,United States,85705
+393449,52959144,6441 Daystar Parkway,Saint Louis,Missouri,United States,63169
+301290,64205101,0 Emmet Place,Durham,North Carolina,United States,27705
+721133,548686077,01 Quincy Pass,Topeka,Kansas,United States,66629
+192753,5550140,3156 Kipling Drive,Los Angeles,California,United States,90015
+385266,656910105,9992 Portage Hill,Shawnee Mission,Kansas,United States,66286
+989428,551549357,62 Buena Vista Parkway,Jamaica,New York,United States,11431
+813303,52125866,837 Upham Lane,Denver,Colorado,United States,80243
+426236,54458907,86058 Farwell Way,Olympia,Washington,United States,98516
+893181,33261228,08432 Arizona Hill,Washington,District of Columbia,United States,20299
+852225,115841060,63 Fairview Park,Apache Junction,Arizona,United States,85219
+266499,3631024,48819 Pleasure Road,Baton Rouge,Louisiana,United States,70826
+241925,50268452,32978 Grayhawk Pass,Jacksonville,Florida,United States,32236
+481554,37808817,0300 Colorado Avenue,Pensacola,Florida,United States,32575
+758034,68084009,27 Debs Center,Winston Salem,North Carolina,United States,27157
+827671,65862599,51 Annamark Circle,El Paso,Texas,United States,88584
+618776,519181001,1 Warner Trail,Fort Worth,Texas,United States,76134
+383260,551546127,56388 Veith Alley,Provo,Utah,United States,84605
+930077,369872014,6579 Arapahoe Avenue,Madison,Wisconsin,United States,53790
+659740,61598200,65379 Marquette Avenue,San Antonio,Texas,United States,78220
+739612,55315455,70762 Westerfield Lane,New York City,New York,United States,10203
+598307,59078039,364 Algoma Lane,New Orleans,Louisiana,United States,70160
+975142,68026544,41054 Elka Pass,Birmingham,Alabama,United States,35295
+182569,21695835,26 Lillian Court,Reno,Nevada,United States,89510
+821546,68084713,72451 2nd Plaza,Morgantown,West Virginia,United States,26505
+583984,49349191,661 Trailsway Crossing,San Antonio,Texas,United States,78291
+889138,676045,36 Melrose Parkway,Berkeley,California,United States,94705
+418103,100960158,571 Burning Wood Avenue,Bethesda,Maryland,United States,20892
+903481,5740427,10 Fair Oaks Crossing,Seattle,Washington,United States,98104
+538947,49715019,0078 Lyons Center,Birmingham,Alabama,United States,35242
+655686,605053780,655 Elgar Pass,Cincinnati,Ohio,United States,45203
+516424,492880302,23 Kenwood Junction,Madison,Wisconsin,United States,53710
+751946,50036571,90 Monument Parkway,Richmond,Virginia,United States,23213
+485713,47335203,11 Stoughton Lane,Spokane,Washington,United States,99205
+958801,557144401,3 Bultman Parkway,Charlotte,North Carolina,United States,28235
+616785,36800004,7513 Lighthouse Bay Center,Tampa,Florida,United States,33673
+403796,511415000,2 Vidon Parkway,Houston,Texas,United States,77035
+145749,653420001,3523 Clyde Gallagher Junction,Fresno,California,United States,93709
+379223,37205664,024 Onsgard Avenue,Honolulu,Hawaii,United States,96825
+194903,681510329,5183 Russell Park,Tampa,Florida,United States,33633
+235866,61786020,858 Algoma Terrace,Washington,District of Columbia,United States,20392
+729434,24488027,576 Cambridge Center,Allentown,Pennsylvania,United States,18105
+102750,47682903,224 Express Place,San Antonio,Texas,United States,78250
+588126,1130277,62725 Dovetail Place,Atlanta,Georgia,United States,30375
+504160,68220160,6 Declaration Street,Washington,District of Columbia,United States,20220
+354665,55111697,625 Sutherland Trail,Newark,New Jersey,United States,7195
+786793,30142104,72 Union Circle,Bakersfield,California,United States,93311
+799083,52959880,5 Dorton Center,West Hartford,Connecticut,United States,6127
+397678,42043171,22 Corben Trail,Bronx,New York,United States,10454
+751986,59779115,37 Schlimgen Drive,Portland,Oregon,United States,97286
+919922,681514021,0 Starling Terrace,Tampa,Florida,United States,33605
+586100,67046017,203 Corben Hill,Tampa,Florida,United States,33673
+672117,691520006,540 Veith Parkway,Independence,Missouri,United States,64054
+432503,49348274,38271 6th Pass,Los Angeles,California,United States,90020
+692601,53620101,79427 Victoria Plaza,Concord,California,United States,94522
+696702,43353754,34617 Lakeland Street,Saint Cloud,Minnesota,United States,56372
+156031,650454,614 Mayer Center,Minneapolis,Minnesota,United States,55470
+582017,66758004,57101 Clove Hill,Alexandria,Virginia,United States,22313
+686466,650446693,05821 Bunker Hill Trail,Pittsburgh,Pennsylvania,United States,15235
+674181,1210772,6245 Oakridge Plaza,Topeka,Kansas,United States,66622
+954760,664970001,49 Maryland Center,Long Beach,California,United States,90810
+973196,49348616,134 Stang Trail,South Lake Tahoe,California,United States,96154
+895372,635650001,4 Nevada Plaza,Richmond,Virginia,United States,23242
+926094,59262259,61 Trailsway Park,Phoenix,Arizona,United States,85053
+534927,11564003,9 Bayside Alley,Washington,District of Columbia,United States,20599
+895377,66336099,40716 Goodland Drive,Dallas,Texas,United States,75226
+893338,636293279,5035 Algoma Circle,Seattle,Washington,United States,98185
+813467,1680277,92 Redwing Hill,Suffolk,Virginia,United States,23436
+369051,35356251,64087 Florence Center,Tacoma,Washington,United States,98442
+500127,76433002,4 Ruskin Alley,Waterbury,Connecticut,United States,6721
+649631,10348010,42 Canary Way,New York City,New York,United States,10110
+168353,6997051,382 Ludington Court,Chicago,Illinois,United States,60614
+119203,687889141,1423 Gulseth Trail,Boise,Idaho,United States,83711
+496036,2680654,43 Meadow Ridge Park,Amarillo,Texas,United States,79171
+313765,42549497,9 Colorado Street,Chicago,Illinois,United States,60686
+280998,53305074,85163 Menomonie Park,Hartford,Connecticut,United States,6160
+594343,43269780,08365 Pepper Wood Center,South Bend,Indiana,United States,46620
+510374,536031006,6 Anthes Avenue,El Paso,Texas,United States,88558
+317866,681511471,4 Chive Lane,Saint Louis,Missouri,United States,63150
+747950,49349272,74049 American Ash Hill,Waltham,Massachusetts,United States,2453
+115120,63029633,9192 Express Avenue,Oklahoma City,Oklahoma,United States,73197
+784817,489518189,6 Lunder Point,Washington,District of Columbia,United States,20425
+184757,35356882,268 Trailsway Junction,Minneapolis,Minnesota,United States,55487
+483767,41163478,2 Milwaukee Point,Aurora,Colorado,United States,80044
+915901,60429028,1 Lukken Alley,Colorado Springs,Colorado,United States,80930
+917950,63187181,40 Messerschmidt Park,Los Angeles,California,United States,90055
+100799,36800010,89798 Miller Court,Lincoln,Nebraska,United States,68583
+889288,49349926,2 Vera Trail,Charleston,West Virginia,United States,25362
+510410,628392810,269 Manitowish Road,Fort Worth,Texas,United States,76129
+481739,551545676,386 Hansons Way,Tucson,Arizona,United States,85705
+670158,52686320,54 Gateway Court,Seattle,Washington,United States,98195
+512464,59115130,2421 Fair Oaks Way,New York City,New York,United States,10099
+770513,15127311,280 Del Mar Street,Hollywood,Florida,United States,33023
+647640,16571150,81967 Old Shore Alley,Phoenix,Arizona,United States,85020
+344537,54340809,2 Maple Wood Parkway,Panama City,Florida,United States,32405
+180699,24385549,2765 Carioca Street,Chula Vista,California,United States,91913
+432607,55711066,3263 Meadow Vale Road,Naperville,Illinois,United States,60567
+809439,59054140,6 Bobwhite Court,Bronx,New York,United States,10464
+647657,438570026,68401 Oriole Point,El Paso,Texas,United States,79999
+707049,61667001,90 Mayer Parkway,Flint,Michigan,United States,48550
+256490,55316478,7911 Bobwhite Crossing,Denver,Colorado,United States,80255
+193005,538080737,6 Shoshone Court,San Angelo,Texas,United States,76905
+958957,60429981,9909 Old Gate Circle,Oklahoma City,Oklahoma,United States,73129
+596464,590621227,0384 Talmadge Place,Pasadena,California,United States,91199
+518640,7811971,412 Autumn Leaf Way,Savannah,Georgia,United States,31405
+444915,548681971,5570 Anthes Park,Tacoma,Washington,United States,98447
+141814,1214675,74 Maywood Place,Fort Pierce,Florida,United States,34949
+360951,66312110,06 Luster Street,Huntsville,Alabama,United States,35810
+451064,57337061,3258 Canary Parkway,San Antonio,Texas,United States,78225
+899574,11673165,36032 Packers Court,Lees Summit,Missouri,United States,64082
+803322,108193737,6 Towne Point,Honolulu,Hawaii,United States,96815
+758269,52533024,52 Dryden Plaza,El Paso,Texas,United States,79950
+264712,41163271,41 Forest Dale Plaza,Frederick,Maryland,United States,21705
+158217,10337332,291 Ramsey Plaza,Racine,Wisconsin,United States,53405
+729615,68405014,6872 Buena Vista Terrace,Honolulu,Hawaii,United States,96840
+733712,606812105,472 Karstens Plaza,Charlotte,North Carolina,United States,28210
+242192,15127831,806 Fordem Terrace,Las Vegas,Nevada,United States,89120
+150041,65862536,993 Mandrake Street,El Paso,Texas,United States,88530
+356890,44717536,72042 Merry Hill,Springfield,Ohio,United States,45505
+713245,115237371,109 Porter Point,Modesto,California,United States,95354
+369183,3787185,63596 School Terrace,Detroit,Michigan,United States,48275
+141861,37000199,567 Artisan Road,Saint Petersburg,Florida,United States,33710
+551465,16590080,0 Hansons Way,Clearwater,Florida,United States,34620
+823850,67253264,815 Elka Court,Montgomery,Alabama,United States,36134
+711212,5913602,6 Buhler Trail,Dallas,Texas,United States,75372
+995885,67046806,3034 Caliangt Road,Toledo,Ohio,United States,43666
+453173,21695285,454 Oak Trail,Houston,Texas,United States,77260
+283198,60429505,52 Anderson Pass,San Luis Obispo,California,United States,93407
+426566,682586100,2470 Northwestern Center,Syracuse,New York,United States,13205
+354886,52584024,1 Cody Way,Jamaica,New York,United States,11499
+404044,369871607,8168 School Trail,Tyler,Texas,United States,75705
+899661,492150001,7 Lakeland Terrace,Boca Raton,Florida,United States,33432
+137805,50563112,6 Fallview Point,Littleton,Colorado,United States,80127
+531025,52642006,8738 Schmedeman Way,Atlanta,Georgia,United States,30340
+979538,5551056,21084 Fremont Court,Pittsburgh,Pennsylvania,United States,15255
+375378,41250467,93997 Scofield Lane,Harrisburg,Pennsylvania,United States,17105
+295507,76237153,01044 Dayton Center,Atlanta,Georgia,United States,30343
+705112,55143012,3356 Burning Wood Pass,Cincinnati,Ohio,United States,45296
+811617,35356301,8 Rutledge Point,Chattanooga,Tennessee,United States,37405
+617058,101579875,72 Becker Center,Delray Beach,Florida,United States,33448
+387683,369871048,762 Calypso Park,Panama City,Florida,United States,32412
+533096,58411102,58 Prentice Crossing,Pasadena,California,United States,91125
+809579,687889942,2 Bunting Crossing,San Antonio,Texas,United States,78285
+393835,16590244,2 Summerview Road,Palatine,Illinois,United States,60078
+674415,63739283,08700 Shoshone Plaza,Camden,New Jersey,United States,8104
+479858,641596989,4071 Dapin Lane,Denver,Colorado,United States,80223
+698996,50844753,70214 Maywood Lane,Dallas,Texas,United States,75323
+989812,14783323,66149 Main Terrace,Charlotte,North Carolina,United States,28263
+670325,548685607,284 Browning Terrace,Jacksonville,Florida,United States,32225
+785013,582329911,569 Delladonna Trail,Watertown,Massachusetts,United States,2472
+879221,36800647,493 Memorial Avenue,Erie,Pennsylvania,United States,16534
+692857,118220900,33 Buhler Court,New York City,New York,United States,10029
+100986,434581004,7324 Kinsman Road,Phoenix,Arizona,United States,85062
+864887,37808437,45341 Daystar Trail,Baltimore,Maryland,United States,21290
+395900,68135020,8 Loomis Point,Columbus,Ohio,United States,43204
+109177,42411043,78047 Sheridan Plaza,Rochester,New York,United States,14646
+633464,18860678,7229 Dryden Terrace,Charlottesville,Virginia,United States,22903
+830079,51060045,2072 Sullivan Street,Macon,Georgia,United States,31217
+758402,47593359,93 Loomis Lane,Montgomery,Alabama,United States,36177
+588420,61245146,95236 Ohio Alley,Fort Worth,Texas,United States,76110
+868997,4563407,22733 Walton Avenue,Monticello,Minnesota,United States,55590
+893575,49349866,90198 Chinook Alley,Lincoln,Nebraska,United States,68583
+645767,49349952,02 Johnson Avenue,Houston,Texas,United States,77005
+635533,24236063,0141 Crescent Oaks Circle,Salt Lake City,Utah,United States,84110
+981646,59011444,75 South Pass,Colorado Springs,Colorado,United States,80915
+973462,492880176,9 Brentwood Drive,Montgomery,Alabama,United States,36119
+567959,68752025,40 Waywood Junction,Reno,Nevada,United States,89550
+379544,630141600,12692 Ohio Park,Youngstown,Ohio,United States,44505
+281244,16864001,67 Pawling Lane,Norwalk,Connecticut,United States,6854
+219809,538080396,6 Maryland Road,Chicago,Illinois,United States,60609
+314020,14783451,2211 Novick Avenue,Birmingham,Alabama,United States,35242
+320168,691520078,6262 Florence Drive,Memphis,Tennessee,United States,38109
+201385,68387802,4237 Lien Park,Bozeman,Montana,United States,59771
+199338,369872864,52 Pawling Crossing,Austin,Texas,United States,78721
+393900,57237025,47 Anhalt Park,Chico,California,United States,95973
+260782,6820334,9 Dapin Point,Anchorage,Alaska,United States,99522
+164528,2583687,204 Sunfield Hill,Norfolk,Virginia,United States,23514
+436913,682583024,645 Bellgrove Crossing,San Antonio,Texas,United States,78230
+295604,61722160,465 Laurel Trail,Arlington,Virginia,United States,22244
+807605,54340779,90567 Arizona Terrace,Torrance,California,United States,90510
+561848,13734023,1871 Stephen Hill,Clearwater,Florida,United States,34629
+119482,7813315,24 Norway Maple Hill,Saint Petersburg,Florida,United States,33710
+215740,41163496,8185 Crescent Oaks Terrace,New Hyde Park,New York,United States,11044
+375486,60951,93 Katie Junction,Washington,District of Columbia,United States,20057
+271040,61755001,642 Main Parkway,New Orleans,Louisiana,United States,70142
+232130,489516040,9 Merry Road,Erie,Pennsylvania,United States,16550
+797381,68391517,34 Dwight Court,Lakewood,Washington,United States,98498
+881351,60429369,373 Green Lane,Ridgely,Maryland,United States,21684
+631497,30142406,86 Annamark Pass,Salt Lake City,Utah,United States,84130
+250571,45802806,95 Jana Lane,Toledo,Ohio,United States,43605
+559819,43269612,8 2nd Trail,Tucson,Arizona,United States,85748
+123599,551541855,5458 Maple Alley,Buffalo,New York,United States,14269
+678607,49967159,9 Kennedy Way,Miami,Florida,United States,33169
+228049,59746211,99 Derek Crossing,Pueblo,Colorado,United States,81010
+565968,61047817,59 Hoffman Junction,Tucson,Arizona,United States,85754
+940755,504364379,83 Montana Park,Anderson,South Carolina,United States,29625
+277204,42627229,302 Eastlawn Junction,Topeka,Kansas,United States,66611
+635606,68703004,4811 Stone Corner Street,El Paso,Texas,United States,79905
+983766,65365005,6 Drewry Center,Phoenix,Arizona,United States,85053
+465623,6410948,298 North Court,Memphis,Tennessee,United States,38114
+846550,551543437,246 Randy Junction,Independence,Missouri,United States,64054
+824026,59779224,9 5th Road,Cheyenne,Wyoming,United States,82007
+789211,2686635,3894 Westend Road,Champaign,Illinois,United States,61825
+963286,545692483,325 Onsgard Avenue,Flint,Michigan,United States,48550
+477912,16477811,0390 Bobwhite Terrace,Colorado Springs,Colorado,United States,80925
+565980,52544044,0 Prentice Place,Lubbock,Texas,United States,79491
+510688,21695473,90814 Becker Crossing,Memphis,Tennessee,United States,38143
+625377,70253348,06437 Manitowish Street,Portland,Oregon,United States,97296
+869096,64406016,24 Mayer Pass,Minneapolis,Minnesota,United States,55441
+871151,7130166,23304 Village Trail,Montgomery,Alabama,United States,36104
+762610,3631298,90164 Mitchell Point,Fullerton,California,United States,92640
+340723,679381397,17 Dunning Circle,Aurora,Colorado,United States,80045
+799476,54838144,0 Rieder Terrace,Memphis,Tennessee,United States,38168
+723701,53113266,89330 Melvin Street,Jackson,Tennessee,United States,38308
+230134,2680807,487 Magdeline Way,Spring,Texas,United States,77388
+563957,58517340,8429 Nancy Center,Los Angeles,California,United States,90081
+244475,3786201,99 Rusk Center,Winston Salem,North Carolina,United States,27110
+987900,98132728,851 Melvin Court,Montpelier,Vermont,United States,5609
+492285,234964,493 Graceland Terrace,Clearwater,Florida,United States,33763
+168700,616570959,68 Russell Street,Clearwater,Florida,United States,34620
+271103,682588973,13199 Transport Court,Memphis,Tennessee,United States,38114
+375551,605050265,20616 Dakota Point,New York City,New York,United States,10115
+549638,46123039,5 Prairie Rose Center,Baltimore,Maryland,United States,21203
+355078,59779405,53 Coleman Avenue,Fargo,North Dakota,United States,58106
+926473,3639170,83 Maple Place,Minneapolis,Minnesota,United States,55446
+125707,41163120,96848 Thackeray Plaza,Fort Worth,Texas,United States,76198
+389901,545690843,439 Mallory Place,Chicago,Illinois,United States,60657
+989965,49778002,63388 New Castle Junction,Bozeman,Montana,United States,59771
+127759,650530,431 Butterfield Crossing,Salt Lake City,Utah,United States,84199
+760592,551544651,25 Division Plaza,Minneapolis,Minnesota,United States,55428
+791314,1871221,13 American Ash Drive,Salt Lake City,Utah,United States,84135
+174868,59779574,317 Killdeer Road,Knoxville,Tennessee,United States,37939
+678678,55289531,7 Commercial Center,Fort Lauderdale,Florida,United States,33330
+596762,60429288,000 Amoth Alley,Austin,Texas,United States,78764
+815899,369871248,680 Mendota Trail,Miami Beach,Florida,United States,33141
+342811,30142462,42431 Algoma Drive,Pittsburgh,Pennsylvania,United States,15225
+305949,641597693,78 Claremont Park,Austin,Texas,United States,78769
+699166,61919992,576 Kingsford Street,Juneau,Alaska,United States,99812
+295710,489518160,56 Schmedeman Place,Durham,North Carolina,United States,27710
+906016,30142733,16 Atwood Center,Zephyrhills,Florida,United States,33543
+105248,43063051,12447 Merrick Park,Missoula,Montana,United States,59806
+406303,50300010,59 Thackeray Court,Greeley,Colorado,United States,80638
+871206,548684986,88 Doe Crossing Plaza,Wilmington,Delaware,United States,19810
+367400,605126032,72549 Helena Terrace,Charlotte,North Carolina,United States,28235
+901933,53877009,5490 Darwin Point,Charleston,West Virginia,United States,25336
+258863,1780370,64137 Pond Circle,Portsmouth,New Hampshire,United States,3804
+840503,50458515,2852 Mockingbird Crossing,Grand Junction,Colorado,United States,81505
+783160,55111396,01 Oneill Park,Miami,Florida,United States,33111
+385849,65923703,510 Graceland Court,Kansas City,Missouri,United States,64193
+142137,5559027,01 Homewood Hill,Shawnee Mission,Kansas,United States,66210
+312126,68647167,2510 Del Mar Way,Saint Paul,Minnesota,United States,55108
+639810,15828106,2 Birchwood Park,Evansville,Indiana,United States,47719
+924490,679380904,90947 Donald Parkway,Bakersfield,California,United States,93311
+699210,1790080,64216 Havey Alley,Dallas,Texas,United States,75387
+770892,42254305,84 Thompson Parkway,Pensacola,Florida,United States,32575
+834383,7815527,2103 Doe Crossing Alley,Brockton,Massachusetts,United States,2405
+648016,52584626,365 Rieder Point,Seattle,Washington,United States,98148
+303960,57664203,4 Blaine Street,South Bend,Indiana,United States,46699
+985945,21695015,51 Anzinger Point,Dallas,Texas,United States,75379
+519004,10705077,713 Rutledge Crossing,Seattle,Washington,United States,98140
+992093,55316994,3124 East Terrace,Naples,Florida,United States,34102
+600927,15127335,7953 South Alley,Los Angeles,California,United States,90060
+660323,36000175,11 Golf Parkway,New York City,New York,United States,10184
+111462,54295307,53 Northview Avenue,Saint Petersburg,Florida,United States,33715
+582502,42549604,0 Talisman Hill,Rochester,New York,United States,14646
+152426,57344018,43604 Nova Parkway,Washington,District of Columbia,United States,20078
+433002,10812421,1 Cambridge Hill,Hialeah,Florida,United States,33018
+213868,557142351,375 Bay Street,Akron,Ohio,United States,44329
+381807,3380520,9 Mcguire Place,Kansas City,Missouri,United States,64153
+834417,12634537,5 Mosinee Hill,North Little Rock,Arkansas,United States,72118
+877435,521240107,0137 Pleasure Place,Albuquerque,New Mexico,United States,87140
+990076,575200112,945 Buell Crossing,Saginaw,Michigan,United States,48609
+633724,4620264,48134 Macpherson Circle,Los Angeles,California,United States,90189
+275325,76293037,775 Hayes Crossing,Saint Petersburg,Florida,United States,33710
+781183,7815613,602 Lien Crossing,Oakland,California,United States,94605
+500610,575200203,9119 Menomonie Junction,Kansas City,Missouri,United States,64149
+994185,52685427,9 Mayer Hill,Saint Louis,Missouri,United States,63136
+107403,50563149,795 Lindbergh Terrace,New York City,New York,United States,10170
+951185,100960181,76063 Lerdahl Center,Cincinnati,Ohio,United States,45233
+115604,49349381,990 East Road,Philadelphia,Pennsylvania,United States,19136
+158614,6156557,75991 John Wall Court,Des Moines,Iowa,United States,50330
+986008,68084513,9 Merrick Junction,Las Vegas,Nevada,United States,89105
+752537,5364086,6 Hansons Hill,Washington,District of Columbia,United States,20503
+119705,59663110,90134 Lyons Alley,Washington,District of Columbia,United States,20220
+983960,52584950,312 Darwin Road,Sacramento,California,United States,95865
+654233,1350505,28 8th Place,Kansas City,Missouri,United States,64153
+603038,49349892,84 Clarendon Parkway,Arlington,Texas,United States,76004
+799648,6157507,5916 Burning Wood Hill,Henderson,Nevada,United States,89012
+465826,935142,827 Lien Way,Athens,Georgia,United States,30610
+138147,498171992,641 Sullivan Pass,Richmond,Virginia,United States,23237
+132003,49283511,8521 Sundown Road,Bronx,New York,United States,10454
+730022,36800262,355 Blue Bill Park Lane,Cedar Rapids,Iowa,United States,52405
+324523,489511035,675 1st Drive,Boston,Massachusetts,United States,2109
+598957,5271326,55959 Stone Corner Place,Grand Rapids,Michigan,United States,49505
+207790,52862201,96 Schmedeman Avenue,Denver,Colorado,United States,80243
+248752,551543953,44 Loftsgordon Trail,Toledo,Ohio,United States,43610
+668599,551545627,40 Graceland Place,Honolulu,Hawaii,United States,96850
+209847,647250773,0 Carberry Junction,Corona,California,United States,92883
+469945,548680644,74 Hayes Place,Roanoke,Virginia,United States,24034
+314298,504366624,95551 Clyde Gallagher Drive,Gadsden,Alabama,United States,35905
+773047,369873322,92623 Becker Court,Boston,Massachusetts,United States,2119
+480183,49349872,1 Buell Circle,Dayton,Ohio,United States,45490
+648125,3783000,2 Nelson Way,Waco,Texas,United States,76711
+449471,369873131,708 Mifflin Road,Daytona Beach,Florida,United States,32128
+551872,4720166,5747 1st Place,Bellevue,Washington,United States,98008
+572352,636294018,38 Cottonwood Circle,Nashville,Tennessee,United States,37205
+445378,606812301,7047 Rigney Circle,Springfield,Illinois,United States,62705
+385989,55910664,881 Buell Place,Anchorage,Alaska,United States,99522
+275409,52083637,533 Sunbrook Way,Portland,Oregon,United States,97221
+304085,67386421,4915 Truax Place,San Francisco,California,United States,94110
+396245,3380047,932 Hollow Ridge Plaza,Pasadena,California,United States,91199
+834518,55289251,610 Dovetail Parkway,Columbus,Ohio,United States,43231
+375768,21695628,774 Grasskamp Plaza,Anchorage,Alaska,United States,99599
+203737,49348934,28455 Comanche Way,Greeley,Colorado,United States,80638
+465883,55289663,1370 Declaration Pass,Alexandria,Virginia,United States,22309
+676830,636291605,266 Bonner Alley,El Paso,Texas,United States,88525
+848877,118220656,109 Dayton Road,Tallahassee,Florida,United States,32304
+560110,61328001,6421 Weeping Birch Way,Alhambra,California,United States,91841
+615407,504368102,94985 Service Park,Asheville,North Carolina,United States,28805
+748529,54111113,5 Nobel Trail,San Diego,California,United States,92170
+842739,30698202,22199 Fulton Junction,Raleigh,North Carolina,United States,27610
+158708,4300115,4022 West Court,East Saint Louis,Illinois,United States,62205
+582646,24115,556 Gerald Lane,Newark,New Jersey,United States,7195
+869369,650446590,67 Waywood Trail,Boise,Idaho,United States,83711
+308222,56149001,88268 Eastwood Trail,Houston,Texas,United States,77234
+488450,55648953,0301 Commercial Center,Sacramento,California,United States,94263
+738307,2681139,497 Summit Center,Waterbury,Connecticut,United States,6726
+300036,492880142,97697 Morning Parkway,Staten Island,New York,United States,10305
+799748,64117118,71527 Fisk Plaza,Riverside,California,United States,92505
+666628,15127550,16885 Forest Drive,Washington,District of Columbia,United States,20067
+568326,369871770,4 Vidon Crossing,Denver,Colorado,United States,80270
+648206,636294730,86 Pleasure Lane,Muncie,Indiana,United States,47306
+297999,595358101,7 Pepper Wood Pass,Springfield,Illinois,United States,62776
+840719,47593507,41409 Oakridge Park,San Antonio,Texas,United States,78220
+248847,68647193,9 Brentwood Road,Fresno,California,United States,93773
+830486,438570150,4 Burrows Junction,Charleston,West Virginia,United States,25356
+547862,59970051,67 Dottie Trail,New Orleans,Louisiana,United States,70187
+631832,37000555,95 Kensington Alley,Phoenix,Arizona,United States,85062
+302113,11673027,6 Garrison Parkway,Sacramento,California,United States,94286
+523299,69075001,85035 Fordem Crossing,Albuquerque,New Mexico,United States,87140
+406569,492880826,58954 Prairie Rose Point,Santa Clara,California,United States,95054
+855081,13537503,971 Charing Cross Parkway,Buffalo,New York,United States,14215
+146477,55550102,0 Gulseth Way,Long Beach,California,United States,90810
+521261,650441437,2121 Stuart Park,El Paso,Texas,United States,79999
+609325,51785514,2 Sunbrook Parkway,Clearwater,Florida,United States,33763
+838701,540435,73 Schurz Hill,Newport Beach,California,United States,92662
+396338,548181,32960 Shopko Street,Tuscaloosa,Alabama,United States,35405
+169014,53489330,4475 Beilfuss Plaza,New Haven,Connecticut,United States,6520
+109627,681511174,88 Muir Pass,Omaha,Nebraska,United States,68117
+490558,35356698,733 Helena Pass,Minneapolis,Minnesota,United States,55487
+816191,636295191,729 Riverside Circle,Houston,Texas,United States,77206
+801856,1680279,0 Ridgeview Drive,Santa Monica,California,United States,90410
+939073,52959386,311 Briar Crest Crossing,Amarillo,Texas,United States,79165
+568386,369872212,60 Menomonie Drive,Seattle,Washington,United States,98195
+218179,61715118,0740 Pine View Lane,Springfield,Massachusetts,United States,1152
+326724,52810411,83328 Heath Avenue,San Antonio,Texas,United States,78285
+812100,66993902,74 Cordelia Road,Washington,District of Columbia,United States,20530
+769094,76439218,7202 Burning Wood Way,Waterbury,Connecticut,United States,6705
+998469,7037045,4 Chinook Circle,Memphis,Tennessee,United States,38181
+947264,21695655,25 Merry Road,Kansas City,Kansas,United States,66160
+674890,63323086,488 Del Mar Circle,New Orleans,Louisiana,United States,70116
+939083,3638130,8 Saint Paul Avenue,San Francisco,California,United States,94110
+666700,55305116,0646 Buhler Park,Cleveland,Ohio,United States,44111
+552013,2681007,95 Stephen Avenue,Concord,California,United States,94522
+191566,65966001,89363 Spaight Plaza,Houston,Texas,United States,77040
+582737,51079575,94753 Kinsman Plaza,Manchester,New Hampshire,United States,3105
+687186,53877006,9 Onsgard Point,Tulsa,Oklahoma,United States,74126
+685138,66116402,10691 Bay Road,Albany,New York,United States,12227
+734291,61715108,8905 Mccormick Center,Columbus,Ohio,United States,43284
+572501,52033001,93 Hallows Circle,Washington,District of Columbia,United States,20029
+676950,605050821,903 Arapahoe Park,Houston,Texas,United States,77299
+162904,42507374,203 Delaware Trail,Palm Bay,Florida,United States,32909
+570458,14783099,7 Blackbird Place,Saint Augustine,Florida,United States,32092
+205916,682583032,44675 Towne Hill,Des Moines,Iowa,United States,50393
+654435,369871519,449 Anhalt Avenue,Topeka,Kansas,United States,66617
+773221,21130255,7 Algoma Center,Rockville,Maryland,United States,20851
+726123,12830739,45 Farragut Parkway,Naperville,Illinois,United States,60567
+787565,49035393,3079 Maple Wood Street,Denver,Colorado,United States,80262
+521330,63323117,6112 Schurz Alley,Charlotte,North Carolina,United States,28299
+808057,696001,345 Susan Center,New Orleans,Louisiana,United States,70187
+535675,616994888,5584 Russell Road,North Las Vegas,Nevada,United States,89036
+939133,649421305,34312 Anthes Lane,Riverside,California,United States,92505
+220288,492880591,0 Fisk Point,Atlanta,Georgia,United States,30368
+500866,548681590,0 Sunnyside Alley,Vancouver,Washington,United States,98682
+349315,687889203,292 Crowley Hill,Sacramento,California,United States,94286
+703625,59572205,4160 Northwestern Hill,Washington,District of Columbia,United States,20088
+410774,51808210,65 Alpine Terrace,Albany,New York,United States,12210
+429206,63739805,0817 Scott Street,Birmingham,Alabama,United States,35279
+181404,50242075,63 Stang Alley,Paterson,New Jersey,United States,7544
+801953,49349677,2 Jenna Alley,Dayton,Ohio,United States,45408
+445605,52959009,57163 Rieder Circle,Beaufort,South Carolina,United States,29905
+562344,545691155,30499 Spohn Avenue,Orlando,Florida,United States,32835
+775338,438570023,254 Shopko Trail,Jacksonville,Florida,United States,32259
+410795,606811002,7 Stoughton Court,Visalia,California,United States,93291
+801965,68682004,89409 Sherman Terrace,South Bend,Indiana,United States,46614
+312494,9046191,1941 Pine View Lane,Cincinnati,Ohio,United States,45296
+892079,10544151,39 Kingsford Alley,Lubbock,Texas,United States,79405
+642222,118226101,49 Blue Bill Park Parkway,Boca Raton,Florida,United States,33432
+208052,51655102,5 Prairie Rose Lane,Springfield,Missouri,United States,65805
+994486,4093213,2 Coleman Plaza,Florence,South Carolina,United States,29505
+591038,501148500,355 Vernon Alley,Detroit,Michigan,United States,48217
+419008,33237002,84726 Onsgard Way,Anaheim,California,United States,92812
+939202,551542734,47 Mifflin Way,Tallahassee,Florida,United States,32399
+902338,672960470,9 Briar Crest Street,Las Vegas,Nevada,United States,89140
+605381,37012484,11749 Dovetail Junction,Asheville,North Carolina,United States,28805
+806088,11527163,03655 Basil Road,Jeffersonville,Indiana,United States,47134
+261322,369872792,05 Maple Court,Van Nuys,California,United States,91411
+414924,1130973,88 Toban Road,Brooklyn,New York,United States,11241
+365773,581181260,137 Karstens Crossing,San Francisco,California,United States,94169
+742609,63010011,2289 Darwin Center,Honolulu,Hawaii,United States,96845
+918737,37808351,1937 International Road,New York City,New York,United States,10155
+384210,593510333,20 Sloan Parkway,Sacramento,California,United States,95823
+687317,52685454,81781 Ridge Oak Terrace,El Paso,Texas,United States,79911
+664791,24465,8958 Glacier Hill Crossing,Indianapolis,Indiana,United States,46221
+763099,63187087,8920 Kings Drive,Phoenix,Arizona,United States,85053
+994523,41520873,434 Raven Center,Orlando,Florida,United States,32835
+236769,49349336,9 Amoth Court,Washington,District of Columbia,United States,56944
+738537,10812604,4157 Forest Dale Place,Baltimore,Maryland,United States,21265
+550122,636291558,23 Saint Paul Place,Houston,Texas,United States,77206
+679151,4980401,4012 Mesta Avenue,New Castle,Pennsylvania,United States,16107
+722160,23155014,94207 Waywood Avenue,Tucson,Arizona,United States,85754
+955633,548686162,4676 Anzinger Place,Oakland,California,United States,94611
+849136,60760978,49986 Warbler Center,Atlanta,Georgia,United States,30301
+842996,118220450,6193 Starling Trail,Redwood City,California,United States,94064
+842998,63730292,9 Onsgard Crossing,Texarkana,Texas,United States,75507
+236791,60429354,84 4th Junction,Boca Raton,Florida,United States,33499
+992506,2830679,9229 Hooker Terrace,Worcester,Massachusetts,United States,1654
+310525,4560095,3032 Maple Wood Way,Huntington,West Virginia,United States,25721
+892164,501810038,1 Dixon Avenue,Knoxville,Tennessee,United States,37914
+810253,609711176,0 Glendale Road,Irving,Texas,United States,75062
+605453,55301411,55 Nancy Lane,Louisville,Kentucky,United States,40280
+279824,44523450,7 Ridgeway Center,Little Rock,Arkansas,United States,72231
+101653,649420894,96 Texas Way,Toledo,Ohio,United States,43656
+771355,548685585,56197 Hollow Ridge Terrace,Carson City,Nevada,United States,89714
+949533,22700143,35 Novick Street,Washington,District of Columbia,United States,20470
+337182,369873061,55189 Thackeray Parkway,Silver Spring,Maryland,United States,20904
+400669,59310175,267 Redwing Pass,Gadsden,Alabama,United States,35905
+580896,47781103,555 Bowman Street,Bronx,New York,United States,10464
+789793,67692148,2 Dahle Alley,New York City,New York,United States,10160
+159008,3783005,483 Eliot Point,Sacramento,California,United States,95852
+138534,68084734,762 Maryland Avenue,Phoenix,Arizona,United States,85010
+662832,369873362,9 Twin Pines Lane,Macon,Georgia,United States,31296
+697649,23155112,45 Steensland Lane,Alexandria,Louisiana,United States,71307
+251185,64125127,63051 Anzinger Street,Carson City,Nevada,United States,89706
+167219,45802770,6528 Oxford Court,Miami,Florida,United States,33190
+834868,369873360,45476 Lien Crossing,Dallas,Texas,United States,75241
+558393,3951003,42960 Dorton Drive,Tyler,Texas,United States,75705
+730426,513937336,44 Jana Street,Santa Rosa,California,United States,95405
+542012,4090219,18153 Little Fleur Place,Las Vegas,Nevada,United States,89105
+478525,75936113,9764 Center Hill,Savannah,Georgia,United States,31416
+718142,51386300,88 Lunder Place,Trenton,New Jersey,United States,8650
+654653,50988183,3 Mesta Terrace,Spokane,Washington,United States,99210
+718144,59779349,3911 Leroy Trail,New York City,New York,United States,10004
+410950,52533103,33 7th Street,Baton Rouge,Louisiana,United States,70820
+339271,41190915,0 Toban Parkway,New Castle,Pennsylvania,United States,16107
+443720,68345965,95 Manley Place,Jacksonville,Florida,United States,32215
+312650,687889164,100 Shopko Road,Dallas,Texas,United States,75260
+925007,669696014,9 Forest Dale Crossing,Orlando,Florida,United States,32859
+226640,482560011,9 Schlimgen Road,Saint Petersburg,Florida,United States,33731
+449873,6032433,204 North Trail,New York City,New York,United States,10009
+890195,5970058,39659 Northridge Alley,Aurora,Colorado,United States,80044
+654675,4850096,371 Fuller Parkway,Staten Island,New York,United States,10305
+425302,67457483,1913 Killdeer Place,Tulsa,Oklahoma,United States,74116
+443737,41520851,09 Pepper Wood Court,Buffalo,New York,United States,14233
+298332,49738201,28534 Di Loreto Road,Saint Louis,Missouri,United States,63104
+605533,581180517,92 Manitowish Drive,Tulsa,Oklahoma,United States,74156
+390493,42507944,84 American Park,Sacramento,California,United States,95838
+304480,46122500,1 Oriole Parkway,Mobile,Alabama,United States,36641
+154977,597626722,327 Debra Junction,Pueblo,Colorado,United States,81010
+277858,505733560,26 Gina Street,Buffalo,New York,United States,14269
+761185,3784513,92 Sutherland Drive,Memphis,Tennessee,United States,38136
+699748,68016115,21277 Nancy Point,Stamford,Connecticut,United States,6912
+277861,33261158,68813 Sunfield Park,Mobile,Alabama,United States,36616
+484712,63736013,11784 Orin Road,Peoria,Illinois,United States,61629
+998765,515315397,8 Ludington Hill,Gainesville,Florida,United States,32610
+159087,3631005,991 Del Mar Drive,Charlotte,North Carolina,United States,28220
+384369,54162004,552 Eagan Parkway,Aurora,Colorado,United States,80045
+568698,551542095,32 Warner Circle,Las Vegas,Nevada,United States,89150
+191868,6151590,476 Sunnyside Point,Roanoke,Virginia,United States,24029
+138621,619950212,267 Dunning Pass,Colorado Springs,Colorado,United States,80915
+173440,21695975,8320 Garrison Center,New York City,New York,United States,10184
+935297,63044203,46318 John Wall Terrace,Visalia,California,United States,93291
+902532,7815949,31926 Golf View Park,Philadelphia,Pennsylvania,United States,19146
+337285,41250236,8 Meadow Vale Lane,Fresno,California,United States,93762
+109957,68180750,4458 Hagan Court,Charleston,West Virginia,United States,25336
+273799,40042050,9152 Fisk Court,Omaha,Nebraska,United States,68134
+511368,369872177,07035 Clemons Avenue,Albuquerque,New Mexico,United States,87201
+228744,3386307,53 Emmet Plaza,Torrance,California,United States,90510
+722314,51824014,34 Knutson Way,Mobile,Alabama,United States,36670
+327050,52125357,0080 Katie Alley,Dayton,Ohio,United States,45432
+562572,50268688,4224 Hoepker Place,Riverside,California,United States,92505
+466319,30142001,4950 Lillian Park,Waco,Texas,United States,76705
+845200,68001215,8788 Sugar Center,Bridgeport,Connecticut,United States,6673
+327057,62932144,62315 Summerview Alley,Las Vegas,Nevada,United States,89105
+275858,5271325,024 Columbus Point,Mc Keesport,Pennsylvania,United States,15134
+112020,63187133,642 Swallow Court,Dayton,Ohio,United States,45454
+855446,489517053,7557 Mallory Circle,Saint Paul,Minnesota,United States,55108
+841116,64764151,2 Arkansas Way,Fort Pierce,Florida,United States,34981
+349597,677501234,912 Clarendon Lane,New York City,New York,United States,10203
+374188,584430024,68325 Morrow Center,Dayton,Ohio,United States,45403
+255412,59779101,32645 Crowley Avenue,Washington,District of Columbia,United States,20540
+755130,60916002,1802 Red Cloud Street,Anchorage,Alaska,United States,99599
+552387,59115056,25 Morrow Plaza,Springfield,Missouri,United States,65805
+255427,538080218,106 Redwing Parkway,Sioux City,Iowa,United States,51110
+777667,66479581,1 Grayhawk Pass,Oklahoma City,Oklahoma,United States,73190
+462278,11673067,53423 Aberg Park,Jacksonville,Florida,United States,32209
+949704,606607786,6546 Hazelcrest Plaza,New York City,New York,United States,10060
+333257,49349472,0355 Oxford Alley,Daytona Beach,Florida,United States,32128
+363978,35356544,63 Elgar Road,Elmira,New York,United States,14905
+294347,16590036,37 Arkansas Terrace,Jacksonville,Florida,United States,32204
+558540,437420185,303 Sunfield Pass,Oklahoma City,Oklahoma,United States,73104
+249291,3630657,73 Waxwing Lane,Tucson,Arizona,United States,85720
+112079,438570238,09 Warbler Pass,Hartford,Connecticut,United States,6160
+515536,582320024,20 Forest Dale Point,Chicago,Illinois,United States,60646
+804306,54575338,0 Arrowood Street,New York City,New York,United States,10125
+906707,37808595,757 Knutson Avenue,Washington,District of Columbia,United States,20062
+331221,117168653,3155 Clemons Terrace,Melbourne,Florida,United States,32919
+882134,68428740,1895 Mitchell Way,Lexington,Kentucky,United States,40596
+601558,3630443,280 Warner Pass,Port Charlotte,Florida,United States,33954
+626136,41250117,5876 Corben Trail,New York City,New York,United States,10275
+982490,55118545,07 Sachtjen Road,Anchorage,Alaska,United States,99512
+249308,10631099,41 Clove Center,Young America,Minnesota,United States,55564
+589279,369872341,5 Annamark Junction,Columbus,Ohio,United States,43204
+908768,55648177,174 Northwestern Street,New York City,New York,United States,10009
+910818,527317003,22710 Stuart Terrace,Philadelphia,Pennsylvania,United States,19191
+886243,132653,09112 Beilfuss Plaza,Reston,Virginia,United States,22096
+955877,1730756,78462 Forster Avenue,Albany,New York,United States,12205
+380390,2686699,47960 Gateway Alley,Fort Myers,Florida,United States,33913
+124392,636295013,4707 Katie Terrace,Hartford,Connecticut,United States,6105
+355818,49348788,623 Bluejay Alley,Washington,District of Columbia,United States,20226
+802285,108195808,27 Oxford Street,Jacksonville,Florida,United States,32259
+376303,1791804,78 Lakeland Crossing,North Little Rock,Arkansas,United States,72118
+464369,59088864,41981 Commercial Hill,Chicago,Illinois,United States,60619
+388596,586684281,67639 Bartelt Hill,Pueblo,Colorado,United States,81015
+456182,1730772,64997 Vidon Way,Charleston,South Carolina,United States,29424
+867837,104770809,35 Hoard Circle,Santa Monica,California,United States,90410
+126463,100960280,5 South Drive,Norwalk,Connecticut,United States,6854
+509439,415957009,9 Annamark Plaza,Littleton,Colorado,United States,80126
+314880,54838551,4046 Moose Circle,New Orleans,Louisiana,United States,70154
+630281,68180902,56 Kings Junction,Brooklyn,New York,United States,11205
+978443,41520092,24873 Talmadge Point,Newark,New Jersey,United States,7188
+753166,101571010,90 Golden Leaf Crossing,San Jose,California,United States,95155
+931342,43419028,03903 Mccormick Parkway,Oklahoma City,Oklahoma,United States,73179
+327185,52584900,4802 Meadow Vale Alley,Pittsburgh,Pennsylvania,United States,15279
+300563,339920100,4 Comanche Court,Spokane,Washington,United States,99252
+232980,52584053,206 Kennedy Junction,Sacramento,California,United States,95838
+851477,346454001,29810 Bunting Avenue,Washington,District of Columbia,United States,20067
+499222,603192001,4841 Pond Pass,Houston,Texas,United States,77095
+316951,52915070,64 Paget Parkway,Dallas,Texas,United States,75251
+165401,62756093,49185 Tony Junction,Inglewood,California,United States,90310
+495129,557144520,53560 Jenifer Parkway,Iowa City,Iowa,United States,52245
+906780,610105400,544 Mandrake Junction,Tucson,Arizona,United States,85715
+448029,51769980,179 Pleasure Pass,Stamford,Connecticut,United States,6905
+374303,52125618,9 Columbus Street,Corpus Christi,Texas,United States,78415
+171552,63304581,7844 Susan Circle,Terre Haute,Indiana,United States,47805
+374305,64679743,8 Washington Crossing,Aurora,Illinois,United States,60505
+820772,662881100,95 Anhalt Alley,Amarillo,Texas,United States,79105
+757286,37012335,38 Ilene Terrace,Washington,District of Columbia,United States,20010
+824874,1872205,69958 Di Loreto Place,Boulder,Colorado,United States,80328
+536111,551545880,263 Bunker Hill Plaza,Murfreesboro,Tennessee,United States,37131
+765487,24909606,57262 New Castle Center,Philadelphia,Pennsylvania,United States,19178
+331315,13913011,5040 Old Gate Center,Littleton,Colorado,United States,80161
+908856,649421174,68 Kinsman Avenue,Washington,District of Columbia,United States,20530
+554553,81123,242 Forster Plaza,Beaumont,Texas,United States,77705
+736826,43063024,9989 Petterle Alley,Bakersfield,California,United States,93381
+763450,52533080,5989 Prairieview Court,West Hartford,Connecticut,United States,6127
+628285,59779389,32715 Darwin Terrace,Jersey City,New Jersey,United States,7310
+896576,47682101,74 Gateway Road,Jackson,Mississippi,United States,39216
+388673,551542431,1 Golden Leaf Court,Terre Haute,Indiana,United States,47805
+257601,61722060,8 Grayhawk Trail,Lincoln,Nebraska,United States,68505
+288325,61139513,1254 Susan Pass,Flushing,New York,United States,11388
+808518,55316998,8 Miller Point,Garden Grove,California,United States,92645
+876103,548685545,57759 Fallview Parkway,Birmingham,Alabama,United States,35205
+321095,650442320,56791 Melby Park,Des Moines,Iowa,United States,50369
+495177,68016081,12 Hermina Street,Des Moines,Iowa,United States,50305
+824906,37808416,6 Sutteridge Drive,Seattle,Washington,United States,98115
+259660,1680151,77101 Kedzie Way,Battle Creek,Michigan,United States,49018
+216657,53247330,17798 Prentice Court,Panama City,Florida,United States,32405
+904787,42957001,53830 Bartillon Place,Spokane,Washington,United States,99220
+611924,489513145,85679 Melody Street,San Francisco,California,United States,94177
+816725,37808386,0931 Golden Leaf Road,Los Angeles,California,United States,90030
+939609,20276433,26348 Parkside Court,Watertown,Massachusetts,United States,2472
+280154,41268441,66 Esker Plaza,Portland,Maine,United States,4109
+945761,551547453,67 Emmet Lane,Des Moines,Iowa,United States,50369
+910946,541187188,9290 Pond Court,El Paso,Texas,United States,88558
+337507,46122245,607 Larry Pass,Washington,District of Columbia,United States,20520
+747106,61314294,3743 Corry Park,Lubbock,Texas,United States,79452
+237157,64117228,3 Dwight Avenue,Tempe,Arizona,United States,85284
+429670,42546175,34 Jana Crossing,Colorado Springs,Colorado,United States,80951
+386664,758571123,6550 Fallview Avenue,New Hyde Park,New York,United States,11044
+892521,55648172,274 Utah Junction,Clearwater,Florida,United States,34620
+796265,76461910,404 School Street,Ogden,Utah,United States,84409
+788073,549733112,231 Coolidge Hill,Tucson,Arizona,United States,85715
+861805,64117293,32089 Darwin Point,Boise,Idaho,United States,83727
+200302,55312160,65 Wayridge Plaza,Norcross,Georgia,United States,30092
+738928,242792,740 Bowman Parkway,Denver,Colorado,United States,80209
+980593,369872585,3297 Dahle Lane,Columbia,Missouri,United States,65211
+618098,42291886,00978 Mifflin Circle,Riverside,California,United States,92505
+953970,59746383,4 Debs Way,Pittsburgh,Pennsylvania,United States,15235
+951924,50484303,5533 Shoshone Place,Toledo,Ohio,United States,43699
+558709,50438102,1289 Messerschmidt Terrace,Reading,Pennsylvania,United States,19605
+689784,1130425,7645 Twin Pines Alley,Akron,Ohio,United States,44393
+370297,15127900,741 Harper Plaza,Scottsdale,Arizona,United States,85271
+331386,6416068,2 Dovetail Street,Tuscaloosa,Alabama,United States,35487
+818809,11673536,1 5th Trail,Columbia,South Carolina,United States,29240
+364156,47593458,33 Judy Way,Chicago,Illinois,United States,60674
+978567,369872515,89343 Merrick Pass,Cincinnati,Ohio,United States,45213
+757384,63187009,8 La Follette Crossing,South Bend,Indiana,United States,46620
+278157,55319619,2 Pankratz Circle,New York City,New York,United States,10014
+847505,650449961,15210 Fordem Alley,New York City,New York,United States,10060
+870033,10702018,1822 Havey Crossing,San Francisco,California,United States,94121
+829075,548683533,83323 Commercial Court,Austin,Texas,United States,78715
+954004,548686387,4450 Forster Hill,San Antonio,Texas,United States,78230
+884374,51346144,247 Gulseth Crossing,Boston,Massachusetts,United States,2124
+773782,61919178,905 Mendota Trail,Texarkana,Texas,United States,75507
+929433,1723762,02624 Tony Crossing,Wilmington,North Carolina,United States,28410
+788123,57664056,84734 Lakewood Center,Port Saint Lucie,Florida,United States,34985
+839327,489517116,5 Roxbury Road,Salem,Oregon,United States,97306
+863911,52584482,8117 Evergreen Plaza,Dallas,Texas,United States,75260
+894632,69161002,665 Derek Center,Miami,Florida,United States,33196
+595625,579551531,6759 Victoria Point,Van Nuys,California,United States,91499
+384679,65841695,063 Pankratz Court,Corpus Christi,Texas,United States,78465
+476839,10893520,6 Buhler Court,El Paso,Texas,United States,88574
+929458,675100026,6 Sachtjen Circle,San Antonio,Texas,United States,78245
+661170,21695575,4 Utah Point,Lakewood,Washington,United States,98498
+560826,52019001,8 Acker Court,Colorado Springs,Colorado,United States,80940
+423612,49349991,46079 Wayridge Trail,Shawnee Mission,Kansas,United States,66220
+976573,369871806,77 Nancy Junction,Denver,Colorado,United States,80204
+327358,606813003,794 Stone Corner Place,Lafayette,Louisiana,United States,70593
+609983,42281003,43797 Del Sol Terrace,Las Vegas,Nevada,United States,89105
+677568,935517,7 Sommers Park,Staten Island,New York,United States,10310
+374467,16714613,310 Carpenter Hill,Houston,Texas,United States,77293
+892612,75940122,006 Anhalt Road,Gadsden,Alabama,United States,35905
+857796,548686253,74222 Oak Valley Avenue,Houston,Texas,United States,77223
+173767,636294458,5 Westridge Alley,Seattle,Washington,United States,98185
+339658,743799,6831 Rigney Parkway,Pasadena,Texas,United States,77505
+667340,2686686,2 Sugar Hill,Winter Haven,Florida,United States,33884
+763599,32909723,998 Canary Hill,Anchorage,Alaska,United States,99599
+161489,31190500,857 Maple Plaza,Las Vegas,Nevada,United States,89145
+495315,76126007,84859 Buell Terrace,Hicksville,New York,United States,11854
+399061,60432455,5829 Evergreen Place,Irvine,California,United States,92619
+868055,49349531,6 Lerdahl Pass,Las Vegas,Nevada,United States,89120
+632536,49349774,3955 Mesta Hill,Minneapolis,Minnesota,United States,55448
+153307,51346083,23 Drewry Place,Topeka,Kansas,United States,66617
+970459,64117150,87 Welch Hill,Chicago,Illinois,United States,60691
+616156,63739284,477 Jackson Alley,Santa Clara,California,United States,95054
+216799,36800523,398 Fieldstone Terrace,Vancouver,Washington,United States,98687
+743138,605052640,3 Moland Drive,Seattle,Washington,United States,98127
+947940,622960036,74 Memorial Avenue,Denver,Colorado,United States,80270
+972517,51143066,64 International Way,Knoxville,Tennessee,United States,37924
+331492,63868926,41978 Talmadge Pass,Wichita,Kansas,United States,67220
+206574,9045869,631 Ridgeview Plaza,Newport News,Virginia,United States,23605
+210672,21695146,63196 Erie Point,Winston Salem,North Carolina,United States,27110
+739059,50268453,68 Dixon Place,Charlotte,North Carolina,United States,28220
+362227,53489590,551 Springview Point,Houston,Texas,United States,77281
+485110,4401385,713 Meadow Ridge Place,Anderson,Indiana,United States,46015
+147191,369872079,537 Homewood Avenue,Austin,Texas,United States,78710
+272120,68472132,2 Shopko Lane,Knoxville,Tennessee,United States,37995
+507639,489511037,534 8th Park,Norman,Oklahoma,United States,73071
+722689,37000587,2 Judy Place,Saginaw,Michigan,United States,48609
+237317,55150125,53148 Northview Way,Milwaukee,Wisconsin,United States,53215
+972549,3630057,81 Westend Center,Milwaukee,Wisconsin,United States,53285
+851721,16729248,5 Lakeland Junction,Birmingham,Alabama,United States,35290
+962315,76331807,50206 Birchwood Park,Portland,Oregon,United States,97286
+720651,369873262,54028 Welch Trail,Charlotte,North Carolina,United States,28289
+782092,49643104,33624 Upham Crossing,Knoxville,Tennessee,United States,37924
+882447,582320702,2 Bultman Lane,Richmond,Virginia,United States,23277
+554774,492880326,04358 Pleasure Park,Portland,Oregon,United States,97271
+945945,65162642,894 Washington Parkway,Orlando,Florida,United States,32830
+397082,507308719,12 Butternut Drive,Reading,Pennsylvania,United States,19605
+683803,687880920,98 Briar Crest Court,Phoenix,Arizona,United States,85020
+911131,13537113,294 Huxley Terrace,Kingsport,Tennessee,United States,37665
+587549,10019035,682 7th Center,Baltimore,Maryland,United States,21211
+851744,63517101,042 American Ash Pass,New Orleans,Louisiana,United States,70160
+239394,41163603,83815 Pawling Road,Cleveland,Ohio,United States,44177
+194341,49967372,8354 David Circle,Port Saint Lucie,Florida,United States,34985
+333611,45802759,288 Scoville Terrace,Louisville,Kentucky,United States,40266
+972592,55648787,406 Schmedeman Trail,North Hollywood,California,United States,91616
+653105,42627257,9 Alpine Avenue,Montgomery,Alabama,United States,36177
+495413,369872932,33066 Clyde Gallagher Drive,Naples,Florida,United States,33963
+511799,35356926,0086 Eastwood Avenue,Washington,District of Columbia,United States,20580
+347960,650441791,17 Briar Crest Parkway,Kansas City,Missouri,United States,64199
+610103,5910932,50942 Bellgrove Street,Fresno,California,United States,93715
+982850,687451057,150 Farragut Trail,Riverside,California,United States,92513
+755526,13537048,6 Birchwood Street,Tampa,Florida,United States,33680
+212807,635395195,2282 Dwight Drive,Juneau,Alaska,United States,99812
+683853,438570300,9412 Cody Place,Wilmington,Delaware,United States,19805
+364365,7812195,70467 Talisman Circle,Washington,District of Columbia,United States,20205
+966479,1151232,8 Grayhawk Center,Madison,Wisconsin,United States,53779
+520016,55655121,2414 Elmside Center,Saint Louis,Missouri,United States,63121
+251730,43063260,37607 Kenwood Point,Arlington,Virginia,United States,22217
+493395,65954382,506 Kinsman Junction,Albuquerque,New Mexico,United States,87201
+804693,24385594,74 Florence Road,Oklahoma City,Oklahoma,United States,73135
+606041,2801146,738 Sauthoff Junction,Cincinnati,Ohio,United States,45228
+722779,68645320,53 Buell Lane,Houston,Texas,United States,77223
+429916,62756552,0 Mitchell Parkway,New York City,New York,United States,10009
+126812,4097139,7 Pearson Parkway,Springfield,Ohio,United States,45505
+399198,851132,2035 Karstens Road,Springfield,Illinois,United States,62776
+831327,37205844,004 Oriole Pass,San Francisco,California,United States,94154
+405344,489511191,5159 Larry Parkway,Atlanta,Georgia,United States,30328
+786273,2681046,14510 Caliangt Point,Atlanta,Georgia,United States,30380
+378715,22431582,7165 Del Mar Way,Shreveport,Louisiana,United States,71161
+747363,597622310,713 Granby Drive,New Haven,Connecticut,United States,6538
+304997,59450200,1235 Mallard Plaza,Des Moines,Iowa,United States,50393
+161640,5550860,1155 Eastwood Plaza,Shreveport,Louisiana,United States,71166
+339820,41163156,10 Laurel Junction,New Orleans,Louisiana,United States,70149
+989039,75866306,51 Randy Center,El Paso,Texas,United States,88519
+542580,16590987,137 Cottonwood Crossing,Chicago,Illinois,United States,60614
+782196,369872245,871 Delladonna Court,Fort Worth,Texas,United States,76192
+728954,57844115,42 Ridge Oak Street,Cincinnati,Ohio,United States,45296
+108411,107428223,74 Jay Place,San Antonio,Texas,United States,78245
+401276,6034998,56 Vahlen Road,Columbia,South Carolina,United States,29208
+964478,686390001,6712 Glendale Street,Madison,Wisconsin,United States,53726
+446335,3785504,57234 Fair Oaks Plaza,Anderson,Indiana,United States,46015
+128900,53389251,1802 Kinsman Avenue,El Paso,Texas,United States,79950
+649096,52125774,3 Hagan Point,Louisville,Kentucky,United States,40256
+139146,52959579,487 Erie Way,Gilbert,Arizona,United States,85297
+610190,551547566,03530 Pleasure Hill,El Paso,Texas,United States,79955
+335758,55316426,866 Maryland Place,Oklahoma City,Oklahoma,United States,73129
+173967,758570001,9 Bartelt Way,West Hartford,Connecticut,United States,6127
+176018,59779600,257 Anzinger Place,Jamaica,New York,United States,11470
+767893,46994329,681 Green Place,White Plains,New York,United States,10606
+626584,548686220,5 Scoville Terrace,Van Nuys,California,United States,91411
+505754,3630604,362 Lighthouse Bay Plaza,Washington,District of Columbia,United States,20005
+753562,68382027,7806 Corscot Point,Irvine,California,United States,92612
+470938,68472072,53 Amoth Road,Wichita Falls,Texas,United States,76305
+522233,4407805,412 Killdeer Parkway,Salt Lake City,Utah,United States,84105
+374685,36800980,2034 Sommers Parkway,Kansas City,Missouri,United States,64109
+806815,681512871,2855 Fairview Street,Reading,Pennsylvania,United States,19605
+741279,759043343,1621 Sherman Center,Springfield,Illinois,United States,62764
+386978,597621412,28775 Dwight Crossing,Columbia,South Carolina,United States,29203
+763812,54575348,900 Dottie Circle,Lafayette,Louisiana,United States,70593
+565156,5191357,43232 Spenser Lane,Newton,Massachusetts,United States,2458
+751527,41520140,642 Merchant Point,Las Vegas,Nevada,United States,89166
+540583,76328333,2 Forster Avenue,New York City,New York,United States,10110
+249767,636291671,27092 Susan Avenue,Austin,Texas,United States,78769
+874411,68105005,12275 Old Shore Terrace,Naples,Florida,United States,34114
+907180,636295094,9 Bluestem Pass,New Haven,Connecticut,United States,6538
+825260,435960011,7 Fair Oaks Trail,New Orleans,Louisiana,United States,70142
+876466,575200034,8471 Orin Street,San Diego,California,United States,92127
+657331,66259701,2435 Goodland Circle,Columbus,Ohio,United States,43268
+786357,24571111,718 Jenifer Road,Chicago,Illinois,United States,60652
+446394,58474010,1 Dapin Circle,Pueblo,Colorado,United States,81015
+368570,68382795,60322 Bultman Point,Beaverton,Oregon,United States,97075
+102332,23155128,156 Buhler Hill,Detroit,Michigan,United States,48217
+518075,438570294,53772 Brown Junction,Van Nuys,California,United States,91499
+542651,37808230,4 Southridge Drive,Newark,Delaware,United States,19725
+831421,636291346,74 South Place,Saint Louis,Missouri,United States,63121
+929724,57664229,082 Warbler Court,Tampa,Florida,United States,33686
+577470,559260014,16513 Jenifer Place,Kansas City,Missouri,United States,64153
+389060,25021656,1 Nobel Parkway,Stamford,Connecticut,United States,6905
+780237,339923003,5186 Nancy Trail,Orlando,Florida,United States,32835
+638927,61727303,6693 Kinsman Park,West Palm Beach,Florida,United States,33411
+456661,49884929,4622 Raven Circle,Rochester,New York,United States,14652
+305110,52125595,03 Westend Lane,Akron,Ohio,United States,44329
+309209,551543379,2 Westport Terrace,London,Kentucky,United States,40745
+659418,548686090,6 Kipling Center,El Paso,Texas,United States,79940
+301019,68472081,04 Roxbury Circle,Pensacola,Florida,United States,32505
+724956,10812204,29029 Mesta Way,Flushing,New York,United States,11355
+501726,58214100,8 Shopko Avenue,Philadelphia,Pennsylvania,United States,19131
+978911,41250167,24 Moulton Point,Charlottesville,Virginia,United States,22908
+784353,49671002,8851 Bluestem Point,Saint Louis,Missouri,United States,63167
+348131,9045980,2 Toban Point,Boise,Idaho,United States,83705
+649188,606817002,304 Grim Trail,San Antonio,Texas,United States,78285
+448485,60740,542 Spenser Hill,Sacramento,California,United States,95823
+690150,636291468,52 Buena Vista Trail,Arlington,Virginia,United States,22205
+296935,55711070,5750 Carey Hill,Charlottesville,Virginia,United States,22903
+301030,3630149,438 Drewry Alley,Austin,Texas,United States,78737
+110566,52054215,85951 Mayfield Hill,Cambridge,Massachusetts,United States,2142
+739311,7815385,71855 South Hill,Honolulu,Hawaii,United States,96845
+526321,24987437,7 Mendota Avenue,Houston,Texas,United States,77281
+188401,575200401,7 Lakewood Gardens Parkway,Crawfordsville,Indiana,United States,47937
+122870,369872288,61 Quincy Junction,Baltimore,Maryland,United States,21265
+841720,489513141,1513 Chive Junction,South Bend,Indiana,United States,46614
+511993,369871348,7216 Reindahl Way,Wilmington,Delaware,United States,19810
+212986,2680030,4 Oneill Place,Lincoln,Nebraska,United States,68524
+913403,11559729,62 Kedzie Court,Salt Lake City,Utah,United States,84152
+663550,55143011,08 Ludington Alley,Tulsa,Oklahoma,United States,74141
+690175,49778001,82641 Quincy Court,Ogden,Utah,United States,84403
